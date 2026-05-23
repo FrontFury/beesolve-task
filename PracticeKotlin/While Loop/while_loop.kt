@@ -37,8 +37,16 @@
 // }
 
 //Reverse Odd Number 20-1 : While
+// fun main(){
+//     var i = 19
+//     while(i>=1){
+//         println(i)
+//         i-=2
+//     }
+// }
+//Reverse Even Number 20-1 : While
 fun main(){
-    var i = 19
+    var i = 20
     while(i>=1){
         println(i)
         i-=2
