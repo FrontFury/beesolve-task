@@ -9,9 +9,19 @@
 // }
 
 //Odd Number 
+// fun main(){
+//     println("Odd Number 1-20")
+//     var i = 1
+//     while (i<=20){
+//         println(i)
+//         i+=2
+//     }
+// }
+
+//Even Number 
 fun main(){
-    println("Odd Number 1-20")
-    var i = 1
+    println("Even Number 1-20")
+    var i = 2
     while (i<=20){
         println(i)
         i+=2
