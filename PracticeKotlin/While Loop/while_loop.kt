@@ -28,10 +28,19 @@
 //     }
 // }
 //Reverse 20-1 : while
+// fun main(){
+//     var i = 20
+//     while(i>=1){
+//         println(i)
+//         i--
+//     }
+// }
+
+//Reverse Odd Number 20-1 : While
 fun main(){
-    var i = 20
+    var i = 19
     while(i>=1){
         println(i)
-        i--
+        i-=2
     }
 }
