@@ -19,11 +19,19 @@
 // }
 
 //Even Number 
+// fun main(){
+//     println("Even Number 1-20")
+//     var i = 2
+//     while (i<=20){
+//         println(i)
+//         i+=2
+//     }
+// }
+//Reverse 20-1 : while
 fun main(){
-    println("Even Number 1-20")
-    var i = 2
-    while (i<=20){
+    var i = 20
+    while(i>=1){
         println(i)
-        i+=2
+        i--
     }
 }
