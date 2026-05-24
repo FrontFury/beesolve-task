@@ -12,8 +12,15 @@
 // }
 
 //Even Number : 1-20
+// fun main(){
+//     for(i in 2..20 step 2){
+//         println(i)
+//     }
+// }
+
+//Reverse Print - Downto
 fun main(){
-    for(i in 2..20 step 2){
+    for(i in 20 downTo 1){
         println(i)
     }
 }
